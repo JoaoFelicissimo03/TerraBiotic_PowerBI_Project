@@ -1,4 +1,4 @@
-# 🌿 TerraBiotic International — Sales Performance Report
+# TerraBiotic International — Sales Performance Report
 ### *A Dynamic Power BI Portfolio Project | Business Intelligence & Data Analytics*
 
 > **Note:** TerraBiotic International is a fictional company created for portfolio purposes.
@@ -36,7 +36,7 @@ Rather than static snapshots, the report is fully interactive — allowing users
 
 The report is a **single-page performance dashboard** containing six interconnected visuals, all driven by a central switch measure and responsive to the same slicers.
 
-![Dashboard Screenshot](image-1.png)!
+![Dashboard Screenshot](image-1.png)
 
 ---
 
@@ -81,7 +81,7 @@ A scatter chart plotting **GP%** (Y-axis) against **Value YTD** (X-axis) for eac
 The report is built on a clean **Star Schema** following Power BI best practices.
 
 
-![Schema screenshot](image-2.png)!
+![Schema screenshot](image-2.png)
 
 
 | Table | Type | Description |

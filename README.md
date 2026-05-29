@@ -174,8 +174,7 @@ The report is designed to be fully self-service. Here's how to navigate it:
 ## 👤 Author
 
 **João Felicíssimo**
-Data Analyst | Power BI | SQL | Python
-📍 Portugal
-🔗 [LinkedIn](https://www.linkedin.com/in/joaofelicissimo07/) · [GitHub](https://github.com/JoaoFelicissimo03)
+
+Data Analyst | [LinkedIn](https://www.linkedin.com/in/joaofelicissimo07/) | [GitHub](https://github.com/JoaoFelicissimo03)
 
 ---

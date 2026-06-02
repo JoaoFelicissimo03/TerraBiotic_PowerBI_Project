@@ -1,5 +1,8 @@
 # TerraBiotic International — Sales Performance Report
 ### *A Dynamic Power BI Portfolio Project | Business Intelligence & Data Analytics*
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/excel-green?style=flat)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat)
 
 > **Note:** TerraBiotic International is a fictional company created for portfolio purposes.
 > This project was developed as a **guided project** based on the excellent tutorial by **Mo Chen** on YouTube.

@@ -1,12 +1,9 @@
-# TerraBiotic International — Sales Performance Report
+# 🌿 TerraBiotic International — Sales Performance Report
 ### *A Dynamic Power BI Portfolio Project | Business Intelligence & Data Analytics*
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-green?style=flat)
-![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat)
 
 > **Note:** TerraBiotic International is a fictional company created for portfolio purposes.
 > This project was developed as a **guided project** based on the excellent tutorial by **Mo Chen** on YouTube.
-> Original dataset and project structure: [Mo Chen's GitHub](https://github.com/mochen862/power-bi-portfolio-project/commits?author=mochen862)
+> Original dataset and project structure: [Mo Chen's GitHub](https://github.com/mochen862)
 > While the foundation follows the guided walkthrough, this report reflects my own implementation, design decisions, and analytical interpretation.
 
 ---
@@ -25,7 +22,7 @@
 
 ## 🔍 Project Overview
 
-**TerraBiotic International** is a fictional international plant distribution company operating across multiple countries and product categories. This Power BI report was built to address a core business challenge:
+**TerraBiotic International** is a fictional international plant distribution company operating across multiple countries and product categories. The logo was made with AI. This Power BI report was built to address a core business challenge:
 
 > *"How can sales leadership quickly identify performance trends, underperforming markets, and high-value accounts, and act on them?"*
 
@@ -39,7 +36,7 @@ Rather than static snapshots, the report is fully interactive — allowing users
 
 The report is a **single-page performance dashboard** containing six interconnected visuals, all driven by a central switch measure and responsive to the same slicers.
 
-![Dashboard Screenshot](image-1.png)
+![Dashboard Screenshot](dashboard.png)!
 
 ---
 
@@ -84,7 +81,7 @@ A scatter chart plotting **GP%** (Y-axis) against **Value YTD** (X-axis) for eac
 The report is built on a clean **Star Schema** following Power BI best practices.
 
 
-![Schema screenshot](image-2.png)
+![Schema screenshot](Schema_screenshot.png)!
 
 
 | Table | Type | Description |
@@ -177,7 +174,8 @@ The report is designed to be fully self-service. Here's how to navigate it:
 ## 👤 Author
 
 **João Felicíssimo**
-
-Data Analyst | [LinkedIn](https://www.linkedin.com/in/joaofelicissimo07/) | [GitHub](https://github.com/JoaoFelicissimo03)
+Data Analyst | Power BI | SQL | Python
+📍 Portugal
+🔗 [LinkedIn](https://www.linkedin.com/in/joaofelicissimo07/) · [GitHub](https://github.com/JoaoFelicissimo03)
 
 ---

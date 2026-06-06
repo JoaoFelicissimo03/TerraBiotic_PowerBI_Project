@@ -36,7 +36,7 @@ Rather than static snapshots, the report is fully interactive — allowing users
 
 The report is a **single-page performance dashboard** containing six interconnected visuals, all driven by a central switch measure and responsive to the same slicers.
 
-![Dashboard Screenshot](Dashboard.png)!
+[Dashboard Screenshot](Dashboard.png)
 
 ---
 
@@ -81,7 +81,7 @@ A scatter chart plotting **GP%** (Y-axis) against **Value YTD** (X-axis) for eac
 The report is built on a clean **Star Schema** following Power BI best practices.
 
 
-![Schema screenshot](Schema_screenshot.png)
+[Schema screenshot](Schema_screenshot.png)
 
 
 | Table | Type | Description |
